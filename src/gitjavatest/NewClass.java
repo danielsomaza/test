@@ -8,8 +8,9 @@ package gitjavatest;
 
 /**
  *
- * @author DANI
+ * @author DANI.
  */
+//
 public class NewClass {
     
 }
